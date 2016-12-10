@@ -15,8 +15,8 @@ import java.util.List;
 
 import nyc.c4q.akashaarcher.aamidterm.network.RecordService;
 import nyc.c4q.akashaarcher.aamidterm.network.ServiceFactory;
-import nyc.c4q.akashaarcher.aamidterm.pojos.Record;
 import nyc.c4q.akashaarcher.aamidterm.pojos.Data;
+import nyc.c4q.akashaarcher.aamidterm.pojos.Record;
 import retrofit2.Call;
 import retrofit2.Callback;
 import retrofit2.Response;
@@ -59,7 +59,6 @@ public class RecordFragment extends Fragment {
 
         return view;
     }
-
 
     @Override
     public void onViewCreated(View view, @Nullable Bundle savedInstanceState) {
