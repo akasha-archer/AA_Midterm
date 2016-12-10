@@ -3,8 +3,6 @@ package nyc.c4q.akashaarcher.aamidterm.pojos;
 import com.google.gson.annotations.Expose;
 import com.google.gson.annotations.SerializedName;
 
-import java.util.List;
-
 /**
  * Created by akashaarcher on 12/10/16.
  */
